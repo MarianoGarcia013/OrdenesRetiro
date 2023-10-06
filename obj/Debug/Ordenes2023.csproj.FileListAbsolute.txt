@@ -1,0 +1,11 @@
+C:\Users\maria\source\repos\Ordenes2023\obj\Debug\Ordenes2023.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Ordenes2023\obj\Debug\Ordenes2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\source\repos\Ordenes2023\obj\Debug\Ordenes2023.Ordenes.resources
+C:\Users\maria\source\repos\Ordenes2023\obj\Debug\Ordenes2023.Properties.Resources.resources
+C:\Users\maria\source\repos\Ordenes2023\obj\Debug\Ordenes2023.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\Ordenes2023\obj\Debug\Ordenes2023.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Ordenes2023\bin\Debug\Ordenes2023.exe.config
+C:\Users\maria\source\repos\Ordenes2023\bin\Debug\Ordenes2023.exe
+C:\Users\maria\source\repos\Ordenes2023\bin\Debug\Ordenes2023.pdb
+C:\Users\maria\source\repos\Ordenes2023\obj\Debug\Ordenes2023.exe
+C:\Users\maria\source\repos\Ordenes2023\obj\Debug\Ordenes2023.pdb
